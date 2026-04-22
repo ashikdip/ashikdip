@@ -1,6 +1,6 @@
 # Hi, I'm Ashik 👋
 
-**HR & Data Analytics professional** based in Turku, Finland. I combine 4+ years of hands-on HR operations experience with technical skills in Python, SQL, and Power BI — bridging the gap between people data and business decisions.
+**HR & Data Analytics professional** based in Turku, Finland. I combine 4+ years of hands-on HR operations experience with technical skills in Python, SQL, and Power BI. Bridging the gap between people data and business decisions.
 
 Currently completing a **ICT Engineering** at Turku University of Applied Sciences (TUAS). Available for internships in Finland immediately.
 
