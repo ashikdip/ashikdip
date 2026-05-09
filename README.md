@@ -2,7 +2,7 @@
 
 **HR & Data Analytics professional** based in Turku, Finland. I combine 4+ years of hands-on HR operations experience with technical skills in Python, SQL, Power BI, and React - bridging the gap between people data and business decisions.
 
-Currently completing a **Bachelor of ICT Engineering** at Turku University of Applied Sciences (TUAS). Available for internships in Finland immediately.
+Currently completing **ICT Engineering** at Turku University of Applied Sciences (TUAS). Available for internships in Finland immediately.
 
 ---
 
